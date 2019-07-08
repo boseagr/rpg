@@ -24,4 +24,4 @@
 # ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
 # (among others).
 
-linguist-language=python
+.html linguist-language=python
